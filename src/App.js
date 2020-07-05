@@ -4,6 +4,8 @@ import Main from './pages/Main'
 import Login from './pages/Login'
 import { HashRouter as Router, Route} from "react-router-dom";
 import { AppContext } from "./libs/contextLibs";
+// const dotenv = require('dotenv').config()
+// const env = dotenv.parsed
 
 
 function App() {

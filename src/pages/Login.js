@@ -146,6 +146,7 @@ export default function Login() {
         </div>
         :
         <div className="login">
+        <label>Verification code has been sent to your Email</label>
         <FormGroup className="py-2">
         <TextField
               value={code}
